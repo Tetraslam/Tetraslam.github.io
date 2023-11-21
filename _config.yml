@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: Tetraslam's World
+description: "My personal blog"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Shresht Bhowmick"
+  email: "shresht@tetraslam.world"
+  url: "https://tetraslam.github.io"
 
 baseurl: /
 
@@ -28,5 +28,6 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "Shresht Bhowmick"
+year : "2023"
+google_analytics: "G-139VGCF1TL"
